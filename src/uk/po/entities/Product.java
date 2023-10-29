@@ -25,7 +25,7 @@ public class Product {
     }
 
     public void setName(String name) {  // Walidacja danych dla nazwy produktu
-        this.name = name;
+        this.name = name;// Implementacja walidacji
     }
 
     public void setPrice(double price) {// Walidacja danych dla ceny produktu
