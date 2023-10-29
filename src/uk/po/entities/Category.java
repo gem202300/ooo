@@ -18,6 +18,7 @@ public class Category {
 
     private boolean validateName(String name) {         // Walidacja danych dla nazwy kategorii
         return true;                    // Implementacja walidacji
+        // Zwróć true jeśli dane są poprawne, w przeciwnym razie false
     }
 
     public String getName() {
